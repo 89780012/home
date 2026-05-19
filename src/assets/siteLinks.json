@@ -1,27 +1,12 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.xiaonuo.cc"
-  },
-  {
-    "icon": "CircleRegular",
-    "name": "网关",
-    "link": "https://newapi.xiaonuo.cc"
-  },
-  {
     "icon": "Robot",
     "name": "n8n",
-    "link": "https://n8n.xiaonuo.cc"
-  },
-  {
-    "icon": "Dev",
-    "name": "devops",
-    "link": "https://devops.xiaonuo.cc"
+    "link": "https://n8n.guhualin.com"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.xiaonuo.cc"
+    "name": "工具箱",
+    "link": "https://toolkitpub.com"
   }
 ]
