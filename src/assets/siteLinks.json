@@ -1,5 +1,10 @@
 [
   {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.guhualin.com"
+  },
+  {
     "icon": "Robot",
     "name": "n8n",
     "link": "https://n8n.guhualin.com"
